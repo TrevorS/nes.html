@@ -1,0 +1,3 @@
+# SingleStepTests JSON files are large (~1MB+ each); re-fetch with tools/fetch-singlestep.sh
+tests/singlestep/*.json
+.DS_Store
